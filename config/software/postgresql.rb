@@ -47,7 +47,7 @@ version '9.6.6' do
 end
 
 version '9.6.9' do
-  source sha256: 'b97952e3af02dc1e446f9c4188ff53021cc0eed7ed96f254ae6daf968c443e2e'
+  source sha256: 'ef99058ea31b3e3e43cf68f7da557f2486c65ce452501781b0fc026c2cfc7435'
 end
 
 version "9.5.8" do
